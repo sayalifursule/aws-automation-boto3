@@ -1,10 +1,10 @@
-# 🚀 AWS Automation using Python (boto3)
+# AWS Automation using Python (boto3)
 
 Automated AWS resource provisioning using Python (boto3). This project creates an S3 static website and launches an EC2 instance with proper error handling and configuration.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates how to automate AWS infrastructure without manual console interaction.
 
@@ -19,7 +19,7 @@ It includes:
 
 ---
 
-## 🧰 Technologies Used
+## Technologies Used
 
 * Python
 * boto3 (AWS SDK for Python)
@@ -31,7 +31,7 @@ It includes:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 pip install boto3
@@ -40,7 +40,7 @@ python main.py
 
 ---
 
-## 🌐 Output
+## Output
 
 After execution:
 
@@ -51,9 +51,9 @@ After execution:
 
 ---
 
-## 📸 Project Screenshots
+## Project Screenshots
 
-### 🔹 1. Script Execution Output
+### 1. Script Execution Output
 
 `main.py` executed successfully and created AWS resources:
 
@@ -61,7 +61,7 @@ After execution:
 
 ---
 
-### 🔹 2. S3 Bucket Created
+### 2. S3 Bucket Created
 
 S3 bucket successfully created and visible in AWS Console:
 
@@ -69,7 +69,7 @@ S3 bucket successfully created and visible in AWS Console:
 
 ---
 
-### 🔹 3. S3 Static Website (Live Output)
+### 3. S3 Static Website (Live Output)
 
 HTML file uploaded and hosted successfully. Website is live:
 
@@ -77,7 +77,7 @@ HTML file uploaded and hosted successfully. Website is live:
 
 ---
 
-### 🔹 4. EC2 Instance Running
+### 4. EC2 Instance Running
 
 EC2 instance launched successfully and running:
 
@@ -85,7 +85,7 @@ EC2 instance launched successfully and running:
 
 ---
 
-## ⚠️ Important Notes
+## Important Notes
 
 * Configure AWS credentials before running:
 
@@ -98,7 +98,7 @@ EC2 instance launched successfully and running:
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 * Automated AWS resource provisioning using boto3
 * Handled real-world AWS errors (bucket exists, permissions, etc.)
@@ -107,10 +107,8 @@ EC2 instance launched successfully and running:
 
 ---
 
-## 🎯 Conclusion
+## Conclusion
 
 This project demonstrates practical cloud automation skills and real-world AWS usage using Python.
 
 ---
-
-⭐ Feel free to fork, use, and enhance this project!
